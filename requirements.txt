@@ -1,0 +1,24 @@
+I created the virtual environment for this project but i could not share due to size constraints.
+
+REQUIREMENTS:-
+
+Python 3.7+ (i used python 3.12)
+
+Libraries to Install:
+- TensorFlow
+- Keras
+- OpenCV (opencv-python)
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Flask
+- Spotipy
+- Pygame (optional)
+- python-dotenv
+- Jupyter Notebook
+
+Hardware and Software Requirements:
+- Webcam
+- Operating System: Windows, macOS, or Linux
+- IDE/Text Editor: Visual Studio Code, PyCharm, Jupyter Notebook, or any preferred editor
